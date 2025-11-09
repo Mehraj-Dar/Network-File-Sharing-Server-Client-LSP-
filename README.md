@@ -111,7 +111,7 @@ Open another terminal and run the compiled client executable:
 
 The client will connect to the server.
 
-  * **Password:** When prompted, enter the password (the hardcoded one is `supersecret123`).
+  * **Password:** When prompted, enter the password (the hardcoded one is `mehraj123`).
   * **Commands:** You will then see the command interface.
 
 -----
